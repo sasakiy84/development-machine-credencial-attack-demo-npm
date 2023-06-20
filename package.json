@@ -1,0 +1,12 @@
+{
+  "name": "development-machine-credencial-attack-demo-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "node -e 'console.log(process.env)'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
